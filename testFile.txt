@@ -1,3 +1,5 @@
 text sdfsdfdsgit
 
 making some changes to branch1
+
+Confirm that pushes for a branch need to be made from that branch. This seems so obvious now. 
